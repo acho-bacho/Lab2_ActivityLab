@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\projects\\android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one.xml",
+        "source": "C:\\projects\\android\\Lab2_ActivityLab\\app\\src\\main\\res\\layout\\activity_one.xml"
+    },
+    {
+        "merged": "C:\\projects\\android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two.xml",
+        "source": "C:\\projects\\android\\Lab2_ActivityLab\\app\\src\\main\\res\\layout\\activity_two.xml"
+    }
+]
